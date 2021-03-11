@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sugato!
+## Hey, I'm Sugato! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,
 
 ### Connect with me:
 
@@ -24,7 +24,7 @@
 👨‍💻  I am passionate about Web Dev, Machine Learning & Competitive Programming. Apart from that, I am passionate about learning new things. </br>
 
 ### My Experiences 🙌
-- [GSSoC'21] (https://gssoc.girlscript.tech/) Participant - My First open-source event as a participant. Attended webinars on Git & Github. Working on projects related to my technical skills.
+- [GSSoC'21](https://gssoc.girlscript.tech/index.html#) Participant - My First open-source event as a participant. Attended webinars on Git & Github. Working on projects related to my technical skills.
 
 ### Technical Skills 📖
 - Programming Languages: Python, Java, JavaScript.
@@ -33,6 +33,6 @@
 - Technologies: Web Development.
 
 
-![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=sugatobagchi&show_icons=true&hide_border=true)
+![Sugato's github stats](https://github-readme-stats.vercel.app/api?username=sugatobagchi&show_icons=true&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sugatobagchi.sugatobagchi)
