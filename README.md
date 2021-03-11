@@ -21,10 +21,10 @@
 
 ### About Me 💻
 🎓 I’m an Open-Source enthusiast & a fresher pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about Web Dev, Machine Learning & Competitive Programming. Apart from that, I am passionate about learning new things. </br>
+👨‍💻  I am passionate about Web Dev, Machine Learning & Competitive Programming. Apart from that, I am an enthusiast about learning new things. </br>
 
 ### My Experiences 🙌
-- [GSSoC'21](https://gssoc.girlscript.tech/index.html#) Participant - My First open-source event as a participant. Attended webinars on Git & Github. Working on projects related to my technical skills.
+- [GSSoC'21](https://gssoc.girlscript.tech/index.html#) Participant - My First open-source event as a participant. Attended webinars on how to use Github. Working on projects related to my technical skills.
 
 ### Technical Skills 📖
 - Programming Languages: Java, Python, JavaScript.
