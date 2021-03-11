@@ -30,7 +30,7 @@
 - Programming Languages: Python, Java, JavaScript.
 - Markup Languages: HTML, CSS.
 - Frameworks: Django.
-- Technologies - Web Development.
+- Technologies: Web Development.
 
 
 ![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=sugatobagchi&show_icons=true&hide_border=true)
