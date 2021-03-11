@@ -27,7 +27,7 @@
 - [GSSoC'21](https://gssoc.girlscript.tech/index.html#) Participant - My First open-source event as a participant. Attended webinars on Git & Github. Working on projects related to my technical skills.
 
 ### Technical Skills 📖
-- Programming Languages: Python, Java, JavaScript.
+- Programming Languages: Java, Python, JavaScript.
 - Markup Languages: HTML, CSS.
 - Frameworks: Django.
 - Technologies: Web Development.
