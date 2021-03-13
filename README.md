@@ -19,9 +19,9 @@
 
 <br />
 
-### About Me 💻
-🎓 I’m an Open-Source enthusiast & a fresher pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about Web Dev, Machine Learning & Competitive Programming. Apart from that, I am an enthusiast about learning new things. </br>
+### About Myself 💻
+🎓 I’m an Open-Source enthusiast & a fresher currently pursuing my Bachelors in Computer Science & Engineering. </br>
+👨‍💻  I am interested in Web Development, Machine Learning & Competitive Programming. Apart from that, I am curious about learning new things. </br>
 
 ### My Experiences 🙌
 - [GSSoC'21](https://gssoc.girlscript.tech/index.html#) Participant - My First open-source event as a participant. Attended webinars on how to use Git & Github. Working on projects related to my technical skills.
@@ -30,7 +30,7 @@
 - Programming Languages: Java, Python, JavaScript.
 - Markup Languages: HTML, CSS.
 - Frameworks: Django.
-- Technologies: Web Development.
+- Technologies: Web Development. </br>
 
 
 ![Sugato's github stats](https://github-readme-stats.vercel.app/api?username=sugatobagchi&show_icons=true&hide_border=true)
