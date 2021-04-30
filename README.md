@@ -36,8 +36,6 @@
 - Frameworks: Django.
 - Technologies: Web Development. </br>
 
-<p align = "center">
-![Sugato's github stats](https://github-readme-stats.vercel.app/api?username=SugatoBagchi&show_icons=true&theme=tokyonight&line_height=30)
-</p>
+![Sugato's github stats](https://github-readme-stats.vercel.app/api?username=sugatobagchi&show_icons=true&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sugatobagchi.sugatobagchi)
