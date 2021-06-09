@@ -25,7 +25,11 @@
 
 ### My Experiences 🙌
 
-- [Facebook Spark AR Labs](https://www.incubateind.com/hack/sparkarlabs) Hackathon Challenge - An AR challenge by Facebook. You need to make atleast one AR lens and publish it. Find my AR lens [here](https://www.instagram.com/ar/534987541214387/)
+- [Facebook Spark AR Labs](https://www.incubateind.com/hack/sparkarlabs) Hackathon Challenge - An AR challenge by Facebook. You need to make at least one AR lens and publish it. Find my AR lens [here.](https://www.instagram.com/ar/534987541214387/)
+
+- [HackerEarth](https://hackerearth.com/) Campus Leader - I was the first one who got selected for this program. I initiated a competitive programming culture in my culture and also started a monthly coding challenge CodeHub.
+
+- [Code For Cause](http://codeforcause.org/) Campus Leader - I was the first one who got selected for this program. I initiated a culture of open-source in my college and organised webinars, took sessions and spreading the word about new technologies by using them. Also, created a community that guided people on how to increase their technical skills.
 
 - [CFC's SoC'21](https://scholarshiptrack.org/spring-of-code-21/) Participant - [Code For Cause](http://codeforcause.org/) in association with [Scholarship Track](https://scholarshiptrack.org/) commenced an open-source event(Spring of Code) for beginner programmers who wanted to enter the open-source world. Attended various webinars related to contribution to various open-source organizations. Even had hands-on participation with open-source.
 
