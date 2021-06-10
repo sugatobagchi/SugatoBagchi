@@ -27,7 +27,7 @@
 
 - [Facebook Spark AR Labs](https://www.incubateind.com/hack/sparkarlabs) Hackathon Challenge - An AR challenge by Facebook. You need to make at least one AR lens and publish it. Find my AR lens [here.](https://www.instagram.com/ar/534987541214387/)
 
-- [HackerEarth](https://hackerearth.com/) Campus Leader - I was the first one who got selected for this program. I initiated a competitive programming culture in my culture and also started a monthly coding challenge CodeHub.
+- [HackerEarth](https://hackerearth.com/) Campus Leader - I was the first one who got selected for this program. I initiated a competitive programming culture in my college and also started a monthly coding challenge CodeHub.
 
 - [Code For Cause](http://codeforcause.org/) Campus Leader - I was the first one who got selected for this program. I initiated a culture of open-source in my college and organised webinars, took sessions and spreading the word about new technologies by using them. Also, created a community that guided people on how to increase their technical skills.
 
