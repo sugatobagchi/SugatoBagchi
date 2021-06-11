@@ -34,7 +34,7 @@
 - [CFC's SoC'21](https://scholarshiptrack.org/spring-of-code-21/) Participant - [Code For Cause](http://codeforcause.org/) in association with [Scholarship Track](https://scholarshiptrack.org/) commenced an open-source event(Spring of Code) for beginner programmers who wanted to enter the open-source world. Attended various webinars related to contribution to various open-source organizations. Even had hands-on participation with open-source.
 
 
-- [GSSoC'21](https://gssoc.girlscript.tech/index.html#) Participant - My First open-source event as a participant. Attended webinars on how to use Git & Github. Working on projects related to my technical skills.
+- [GSSoC'21](https://gssoc.girlscript.tech/index.html#) Participant - My First open-source event as a participant. Attended webinars on how to use Git & Github. Worked on projects related to my technical skills.
 
 ### Technical Skills 📖
 - Programming Languages: Java, Python, JavaScript.
