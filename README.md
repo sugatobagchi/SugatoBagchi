@@ -16,7 +16,6 @@
 <a href="https://www.facebook.com/sugato.bagchi.50/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
-
 <br />
 
 ### About Myself 💻
@@ -27,7 +26,7 @@
 
 - [Facebook Spark AR Labs](https://www.incubateind.com/hack/sparkarlabs) Hackathon Challenge - An AR challenge by Facebook. You need to make at least one AR lens and publish it. Find my AR lens [here.](https://www.instagram.com/ar/534987541214387/)
 
-- [HackerEarth](https://hackerearth.com/) Campus Leader - I was the first one who got selected for this program. I initiated a competitive programming culture in my college and also started a monthly coding challenge CodeHub.
+- [HackerEarth](https://hackerearth.com/) Campus Leader - I was the first one who got selected for this program. Initiated a competitive programming culture in my college and also started a monthly coding challenge CodeHub. There were more than 150+ registrations and 75+ participants in the contest.
 
 - [Code For Cause](http://codeforcause.org/) Campus Leader - I was the first one who got selected for this program. I initiated a culture of open-source in my college and organised webinars, took sessions and spread the word about new technologies by using them. Also, created a community that guided people on how to increase their technical skills.
 
@@ -37,10 +36,10 @@
 - [GSSoC'21](https://gssoc.girlscript.tech/index.html#) Participant - My First open-source event as a participant. Attended webinars on how to use Git & Github. Worked on projects related to my technical skills.
 
 ### Technical Skills 📖
-- Programming Languages: Java, Python, JavaScript.
-- Markup Languages: HTML, CSS.
-- Frameworks: Django.
-- Technologies: Web Development. </br>
+- Languages: Java, C/C++, Python, JavaScript HTML, CSS.
+- Frameworks/Libraries: React, Spring, Flask.
+- Studios: Spark AR.
+- Technologies: Web Development, AR Reality, UI/UX Designing. </br>
 
 ![Sugato's github stats](https://github-readme-stats.vercel.app/api?username=sugatobagchi&show_icons=true&hide_border=true)
 <br />
