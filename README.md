@@ -36,7 +36,7 @@
 - [GSSoC'21](https://gssoc.girlscript.tech/index.html#) Participant - My First open-source event as a participant. Attended webinars on how to use Git & Github. Worked on projects related to my technical skills.
 
 ### Technical Skills 📖
-- Languages: Java, C/C++, Python, JavaScript HTML, CSS.
+- Languages: Java, C/C++, Python, JavaScript, HTML, CSS.
 - Frameworks/Libraries: React, Spring, Flask.
 - Studios: Spark AR.
 - Technologies: Web Development, AR Reality, UI/UX Designing. </br>
