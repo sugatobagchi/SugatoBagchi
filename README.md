@@ -24,6 +24,8 @@
 
 ### My Experiences 🙌
 
+- [AngelHack](https://angelhack.com/) Student Ambassador - Student Lead for the AngelHack Campus Hub - DSCSIT Kolkata. Engaging with local developers communities to strengthen local ecosystems, bring together passionate individuals and promote innovation.
+
 - [HackerEarth](https://hackerearth.com/) Campus Leader - I was the first one who got selected for this program. Initiated a competitive programming culture in my college and also started a monthly coding challenge CodeHub. There were more than 150+ registrations and 75+ participants in the contest.
 
 - [Code For Cause](http://codeforcause.org/) Campus Leader - I initiated a culture of open-source in my college, organized webinars and took sessions. Created a community that guided people on how to increase their technical skills.
