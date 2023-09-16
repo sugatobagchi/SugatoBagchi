@@ -18,7 +18,7 @@
 
 ### About Myself 💻
 
-🎓 I’m a final year pursuing student my Bachelors in Computer Science & Engineering.
+🎓 I’m a final year student pursuing my Bachelors in Computer Science & Engineering.
 
 👨‍💻 I'm interested in Web Development, Machine Learning & Hackathons. </br>
 
