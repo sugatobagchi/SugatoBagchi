@@ -6,7 +6,7 @@
 ### Connect with me:
 
   
-<div align=center>
+<div align=left>
 
 <a  href="https://www.linkedin.com/in/sugato-bagchi-35a81a1b1/">
 
