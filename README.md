@@ -29,7 +29,7 @@
 ### Technical Skills 📖
 ```python
 Languages = ["Java", "Python", "JavaScript"]
-Frameworks = ["React", "Node", "Flask"]
+Frameworks = ["React", "Node", "Fast API"]
 Interests = ["Programming", "Traveling", "Reading"]
 ```
 
